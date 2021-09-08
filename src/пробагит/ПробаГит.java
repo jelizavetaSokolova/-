@@ -16,6 +16,8 @@ public class ПробаГит {
      */
     public static void main(String[] args) {
         System.out.println("Начало разработки");
+        System.out.println("Rjytw hfphf,jnrb");
+        System.out.println("Тш4упщ ту зщтшьфог");
     }
     
 }
